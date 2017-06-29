@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+  <title>Tennis</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<form name="tennis" action="success.html" method="post">
+  <fieldset>
+    <div>
+      <label>First Name:</label>
+      <input type="text" name="firstname">
+    </div>
+    <div>
+      <label>Last Name:</label>
+      <input type="text" name="lastname">
+    </div>
+    <div>
+      <label>User Name</label>
+      <input type="text" name="username">
+    </div>
+    <div>
+      <label>Email:</label>
+      <input type="email" name="email">
+    </div>
+
+    <div>
+      <label>Password:</label>
+      <input type="password" name="password">
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <div>
+      <label>Groundstroke Name:</label>
+      <textarea id="groundstroke" name="groundstroke"></textarea>
+    </div>
+
+    <div>
+      <label>Type of Racquet:</label>
+      <select name="racquet">
+        <option value="babolat">Babolat</option>
+        <option value="head">Head</option>
+        <option value="wilson">Wilson</option>
+      </select>
+    </div>
+
+    <div>
+      <label>Choose a date:</label>
+      <input type="date" name="date">
+    </div>
+
+    <div>
+      <input type="checkbox" name="cb-agree" value="agree">
+      I am prepared to play some tennis.
+    </div>
+  </fieldset>
+
+  <button type="submit">Save this tennis adventure</button>
+</form>
+</body>
