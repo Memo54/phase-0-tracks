@@ -1,0 +1,28 @@
+#octopus profile{
+  width: 600px;
+  margin: auto;
+}
+#header{
+  text-align: center;
+}
+#octavious{
+  padding: 20px;
+
+}
+#profile{
+  margin: 25px 100px 100px 500px;
+}
+#octopus{
+  position: absolute;
+  z-index: -1;
+  margin-top: 75px;
+  margin-left: 15px;
+}
+#hat{
+  position: relative;
+}
+#glasses{
+  position: fixed;
+  margin-top: 5px;
+  margin-left: 60px;
+}
