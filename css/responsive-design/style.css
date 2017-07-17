@@ -8,14 +8,21 @@ cite {
   display: block;
   margin-top: 10px;
 }
-
 #external-links ul {
   list-style-type: none;
   padding-left: 0px;
 }
-
+#external-links {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+}
+main {
+  width: 65%;
+  display: inline-block;
+}
 /* you're welcome to edit the
-image, figure, and figcaption CSS if you'd like, 
+image, figure, and figcaption CSS if you'd like,
 but it's optional! */
 img {
   width: 100%;
@@ -30,3 +37,25 @@ figcaption {
   font-style: italic;
   text-align: right;
 }
+body {
+  width: 960px;
+  max-width: 960px;
+  text-align: center;
+}
+@media screen and (max-width: 500px) {
+  body {
+    background-color: hotpink;
+    width: 500px
+  }
+}
+@media screen and (max-width: 500px) {
+    #external-links {
+      display: inline;
+    }
+    #main {
+      margin-left: 450px;
+    }
+    img{
+      width: 100%;
+    }
+  }
