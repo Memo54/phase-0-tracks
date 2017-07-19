@@ -1,0 +1,20 @@
+(Algorithm for my robot to use the Elevator)
+
+- Walk towards the elevator doors, and stop approximately 1 foot away from the elevator doors:
+    - Look to your left hand side, lift your arm at 45 degrees; bend your arm at 90 degrees.
+    - Look at the elevator panel, there are 2 buttons one to go up; and one to go down.
+    - Point your index finger, press the elevator button to go up.
+- After pressing the button, lower your arm; wait until the elevator doors open.
+- Once the elevator doors open, wait 5 seconds for any person to exit the elevator.
+- After every person has exited the elevator:
+    - You may proceed by walking 5 feet forwards into the elevator.
+    - Turn around 180 degrees clockwise to face the elevator panel.
+- Look at the elevator panel to your left hand side, lift your arm at 45 degrees; bend your arm at 90 degrees:
+    - There are 45 buttons, one for each floor.
+    - Point your index finger, press the button with the number 32 to go up to the 32nd floor.
+- Wait patiently, the doors will close and the elevator will go up towards the 32nd floor
+- The moment the elevator stops at the 32nd floor:
+    - Once the elevator doors open, you may proceed to exit the elevator 5 feet forward.
+    - After walking forward, turn 90 degrees to the right.
+- And you may proceed to walk towards my room.
+
