@@ -17,3 +17,8 @@ else
   puts hamster_age
 end
 
+puts "Hamster Name is #{hamster_name}!"
+puts "Hamster Volume is #{hamster_volume}!"
+puts "Hamster Fur Color is #{hamster_color}!"
+puts "Hamster Recommend is #{hamster_recommend}!"
+puts "Hamster Age is #{hamster_age}!"
