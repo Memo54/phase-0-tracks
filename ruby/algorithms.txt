@@ -20,6 +20,7 @@
 
 ---------------------------------------------------
 Release 1: Find a Real-Life Algorithm.
+
 "Quick arm curl workout"
 - EZ curl barbell 4 x 12
 - Set up EZ curl barbell
