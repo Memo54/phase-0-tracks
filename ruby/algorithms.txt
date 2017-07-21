@@ -18,3 +18,20 @@
     - After walking forward, turn 90 degrees to the right.
 - And you may proceed to walk towards my room.
 
+---------------------------------------------------
+Release 1: Find a Real-Life Algorithm.
+"Quick arm curl workout"
+- EZ curl barbell 4 x 12
+- Set up EZ curl barbell
+  - Add 25 Lb plates on each end and lock them in place.
+- Stand up straight and let the barbell hang.
+- Make sure the barbel doesnt touch chest when curling the barbell.
+- Your going to do 1 set, 12 reps (curls)
+  - Curl the barbell up to your chest at a 130 degrees.
+  - Hold it for 2 seconds.
+  - Brind the down the barbell down slowly.
+  - Once the barbell comes down to reach your thighs.
+- After finishing your 1st set.
+- You will repeat the same sequence, 3 more sets and each set has 12 reps.
+
+
