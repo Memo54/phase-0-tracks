@@ -42,7 +42,6 @@ p condiments
 condiments.each do |toppings, location|
   puts "#{toppings} are supposed to be #{location}"
 end
-
 #
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
