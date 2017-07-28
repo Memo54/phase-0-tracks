@@ -5,35 +5,35 @@
 # committed the crime, add additional calls to prove it.
 
 p "iNvEsTiGaTiOn".swapcase
-# => “InVeStIgAtIoN”
+"InVeStIgAtIoN"
 
-# "zom".<???>
-# => “zoom”
+p "zom".insert(2, "o")
+"zoom"
 
-# "enhance".<???>
-# => "    enhance    "
+p "enhance".center(20)
+"    enhance    "
 
-# "Stop! You’re under arrest!".<???>
-# => "STOP! YOU’RE UNDER ARREST!"
+p "Stop! You’re under arrest!".upcase
+"STOP! YOU’RE UNDER ARREST!"
 
-# "the usual".<???>
-#=> "the usual suspects"
+p "the usual " << "suspects"
+"the usual suspects"
 
-# " suspects".<???>
-# => "the usual suspects"
+p " suspects".prepend("the usual")
+"the usual suspects"
 
-# "The case of the disappearing last letter".<???>
-# => "The case of the disappearing last lette"
+p "The case of the disappearing last letter".chop
+"The case of the disappearing last lette"
 
-# "The mystery of the missing first letter".<???>
-# => "he mystery of the missing first letter"
+p "The mystery of the missing first letter".delete("T")
+"he mystery of the missing first letter"
 
-# "Elementary,    my   dear        Watson!".<???>
-# => "Elementary, my dear Watson!"
+p "Elementary,    my   dear        Watson!".squeeze(" ")
+"Elementary, my dear Watson!"
 
 p "z".ord
-# => 122
-# (What is the significance of the number 122 in relation to the character z?)
+122
+ ("What is the significance of the number 122 in relation to the character z? This code arises from reorder and expand the set of symbols and characters already used in telegraphy at that time by the Bell company.")
 
-# "How many times does the letter 'a' appear in this string?".<???>
-# => 4
+p "How many times does the letter 'a' appear in this string?".count "a"
+4
